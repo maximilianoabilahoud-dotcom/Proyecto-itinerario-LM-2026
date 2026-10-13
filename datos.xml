@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Propietario id="Maximiliano Abilahoud">
+    <Gato id="001">
+        <Nombre>Gatito</Nombre>
+        <Raza>Siamés</Raza>
+    </Gato>
+    <Gato id="002">
+        <Nombre>Gaton</Nombre>
+        <Raza>Maine Coon</Raza>
+    </Gato>
+    <Gato id="003">
+        <Nombre>Gatita</Nombre>
+        <Raza>Persa</Raza>
+    </Gato>
+    <destacados/>
+</Propietario>
